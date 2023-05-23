@@ -2,7 +2,7 @@
 
 - This is a simple Python script that performs IP lookup using the IP Geolocation API. It retrieves detailed information about an IP address, such as its continent, country, region, city, ZIP code, latitude, longitude, timezone, ISP, organization, AS (Autonomous System), reverse DNS, mobile status, proxy status, and hosting status.
 
-## Example how it looks like :computer:
+## Example how it looks like when you enter IP :computer:
 - Enter the IP address (or 'exit' to quit): 192.168.0.1
 
 - :small_blue_diamond: IP: 192.168.0.1
